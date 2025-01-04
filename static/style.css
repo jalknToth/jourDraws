@@ -39,7 +39,7 @@ img{
 }
 
 .flechasCarrusel a > i{  
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 30px;
 }
 
@@ -60,7 +60,7 @@ h6{
     font-size: 12px;
     position: absolute;
     bottom: 150px;
-    color: white;
+    color: rgb(0, 0, 0);
     transform: translateX(-50%); 
 }
 /*
